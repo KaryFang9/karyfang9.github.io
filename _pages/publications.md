@@ -4,10 +4,11 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-
 ### 2025
+___
+
 **Inferring the causes of noise from binary outcomes: A normative theory of learning under uncertainty**  
-*Xiaotong Fang, Payam Piray*  
+*__Xiaotong Fang__, Payam Piray*  
 OSFPreprints, 2025 
 [link](https://doi.org/10.31219/osf.io/vuc5g_v1)
 
