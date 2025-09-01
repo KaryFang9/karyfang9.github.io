@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiaotong (Kary) Fang Personal Website"
+title                    : "Kary's Website"
 title_separator          : "-"
 name                     : &name "Xiaotong (Kary) Fang"
 description              : &description ""
@@ -23,7 +23,7 @@ repository               : "https://github.com/KaryFang9/karyfang9.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kary Fang"
+  name             : "Xiaotong (Kary) Fang"
   pronouns         : # example: "she/her"  
   bio              : "Finding meaning in life."
   location         : "Los Angeles, CA"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
